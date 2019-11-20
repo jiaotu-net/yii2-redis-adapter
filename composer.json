@@ -1,0 +1,29 @@
+{
+    "name": "jiaotu-net/redis-adapter",
+    "description": "redis client adapter",
+    "keywords": [
+        "jiaotu",
+        "reids",
+        "adapter"
+    ],
+    "homepage": "http://www.jiaotu.net/",
+    "type": "library",
+    "license": "",
+    "authors": [
+        {
+            "name": "HaoHui Wang",
+            "email": "haohui.wang@jiaotu.net",
+            "homepage": "http://www.jiaotu.net/",
+            "role": "Founder"
+        }
+    ]
+    "require": {
+        "php-64bit": ">=7.0.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "JiaoTu\\RedisAdapter": "src/"
+        }
+    }
+}
