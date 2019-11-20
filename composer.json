@@ -16,7 +16,7 @@
             "homepage": "http://www.jiaotu.net/",
             "role": "Founder"
         }
-    ]
+    ],
     "require": {
         "php-64bit": ">=7.0.0"
     },
