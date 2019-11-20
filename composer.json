@@ -8,7 +8,7 @@
     ],
     "homepage": "http://www.jiaotu.net/",
     "type": "library",
-    "license": "",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "HaoHui Wang",
