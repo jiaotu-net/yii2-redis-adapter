@@ -1,8 +1,9 @@
 {
     "name": "jiaotu-net/redis-adapter",
-    "description": "redis client adapter",
+    "description": "yii2-redis to phpredis adapter",
     "keywords": [
         "jiaotu",
+        "yii2",
         "reids",
         "adapter"
     ],
