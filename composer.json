@@ -23,7 +23,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "JiaoTu\\RedisAdapter": "src/"
+            "JiaoTu\\RedisAdapter\\": "src/"
         }
     }
 }
